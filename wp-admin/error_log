@@ -1,0 +1,185 @@
+[18-Dec-2017 02:27:35 UTC] PHP Warning:  Parameter 1 to wp_default_scripts() expected to be a reference, value given in /home/vuhungtai/public_html/royalspa.com.vn/wp-includes/plugin.php on line 601
+[18-Dec-2017 02:27:35 UTC] PHP Warning:  Parameter 1 to wp_default_styles() expected to be a reference, value given in /home/vuhungtai/public_html/royalspa.com.vn/wp-includes/plugin.php on line 601
+[04-Sep-2018 02:59:15 UTC] PHP Warning:  fopen(/home/vuhungtai/public_html/royalspa.com.vn/wp-content/plugins/arve-pro/arve-pro.php): failed to open stream: No such file or directory in /home/vuhungtai/public_html/royalspa.com.vn/wp-includes/functions.php on line 4627
+[04-Sep-2018 02:59:15 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/vuhungtai/public_html/royalspa.com.vn/wp-includes/functions.php on line 4630
+[04-Sep-2018 02:59:15 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/vuhungtai/public_html/royalspa.com.vn/wp-includes/functions.php on line 4633
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: Array
+(
+    [0] => PostmanWizardSocket Object
+        (
+            [hostname] => www.googleapis.com
+            [hostnameDomainOnly] => googleapis.com
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => www.googleapis.com
+            [reportedHostnameDomainOnly] => googleapis.com
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => gmail_api
+            [label] => 
+            [id] => www.googleapis.com_443
+        )
+
+    [1] => PostmanWizardSocket Object
+        (
+            [hostname] => api.sendgrid.com
+            [hostnameDomainOnly] => sendgrid.com
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => api.sendgrid.com
+            [reportedHostnameDomainOnly] => sendgrid.com
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => sendgrid_api
+            [label] => 
+            [id] => api.sendgrid.com_443
+        )
+
+    [2] => PostmanWizardSocket Object
+        (
+            [hostname] => mandrillapp.com
+            [hostnameDomainOnly] => mandrillapp.com
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => mandrillapp.com
+            [reportedHostnameDomainOnly] => mandrillapp.com
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => mandrill_api
+            [label] => 
+            [id] => mandrillapp.com_443
+        )
+
+    [3] => PostmanWizardSocket Object
+        (
+            [hostname] => api.mailgun.net
+            [hostnameDomainOnly] => mailgun.net
+            [port] => 443
+            [protocol] => HTTPS
+            [secure] => 1
+            [mitm] => 
+            [reportedHostname] => api.mailgun.net
+            [reportedHostnameDomainOnly] => mailgun.net
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 1
+            [transport] => mailgun_api
+            [label] => 
+            [id] => api.mailgun.net_443
+        )
+
+    [4] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.gmail.com
+            [hostnameDomainOnly] => gmail.com
+            [port] => 25
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [label] => 
+            [id] => smtp.gmail.com_25
+        )
+
+    [5] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.gmail.com
+            [hostnameDomainOnly] => gmail.com
+            [port] => 465
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [label] => 
+            [id] => smtp.gmail.com_465
+        )
+
+    [6] => PostmanWizardSocket Object
+        (
+            [hostname] => smtp.gmail.com
+            [hostnameDomainOnly] => gmail.com
+            [port] => 587
+            [protocol] => 
+            [secure] => 
+            [mitm] => 
+            [reportedHostname] => 
+            [reportedHostnameDomainOnly] => 
+            [message] => 
+            [startTls] => 
+            [authPlain] => 
+            [auth_login] => 
+            [auth_crammd5] => 
+            [auth_xoauth] => 
+            [auth_none] => 
+            [try_smtps] => 
+            [success] => 
+            [transport] => smtp
+            [label] => 
+            [id] => smtp.gmail.com_587
+        )
+
+)
+
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: Gmail API
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: SendGrid API
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: Mandrill API
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: Mailgun API
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[06-Sep-2018 03:43:46 UTC] ERROR PostmanManageConfigurationAjaxHandler: 
+[07-Sep-2018 07:29:04 UTC] DUP PRO:license key is empty on uninstall!
